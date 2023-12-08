@@ -27,7 +27,7 @@ const questions = [
       message: 'What are the guidelines for contribution?',
       name: 'contributing',
     },
-    { type: 'checkbox',
+    { type: 'list',
       name: 'license',
       message: 'Which license would you like to use?',
       choices: ['Apache License 2.0','GNU General Public License','MIT License', 'None'],

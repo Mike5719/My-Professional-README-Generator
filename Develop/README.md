@@ -1,9 +1,9 @@
-# t
-  ## License:
-  [![License](https://img.shields.io/badge/license-${license}-blue.svg)](https://opensource.org/licenses/${license})
+# p
+  
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
   
-  ##Table of Contents
+  ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
@@ -12,18 +12,18 @@
   - [Questions](#questions)
 
   ## Description:
-  t
+  p
   ## Installation:
-  t
+  p
   ## Usage:
-  t
+  p
   ## License
   Apache License 2.0
-  
+  https://opensource.org/licenses/Apache-2.0
   ## Contributing
-  t
+  p
   ## Tests
-  t
+  p
   ## Questions
-  - Github: [t](https://github.com/t)
-  - Email: [t](mailto:user@example.com)
+  - Github: [p](https://github.com/p)
+  - Email: [p](mailto:user@example.com)
