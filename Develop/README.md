@@ -1,4 +1,4 @@
-# a
+# My Professional README Generator
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
@@ -13,18 +13,18 @@
   - [Questions](#questions)
 
   ## Description:
-  b
+  The purpose of this project is to use node to generate a professional README file.
   ## Installation:
-  c
+  The user will need to install the inquirer package version 8.2.4
   ## Usage:
-  d
+  The user initiates the application in the command line and then is prompted with a series of questions, the answers are then used to populate the README.
   ## License
   MIT License
   https://opensource.org/licenses/MIT
   ## Contributing
-  e
+  Open for contribution.
   ## Tests
-  f
+  Using VS Code in the command line.
   ## Questions
-  - Github: [g](https://github.com/g)
-  - Email: [h](mailto:user@example.com)
+  - Github: [Mike5719](https://github.com/Mike5719)
+  - Email: [myemailaddress@abc.com](mailto:user@example.com)
