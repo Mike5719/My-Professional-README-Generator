@@ -5,13 +5,18 @@ The purpose of this project is to you use node to generate a professional README
 
 
 ## Installation
-The user will need to install inquirer version 8.2.4 and the application is invoked in the command line using node index.js
+The user will need to install the inquirer package version 8.2.4, this is done in the command line by using the commands npm init -y followed by npm install inquirer@8.2.4, the application is invoked in the command line using node index.js
 
 ## Usage 
 
-**************************************************include screenshots*********************************
-************************************************include video tutorial****************************************
+Video Tuturial: https://drive.google.com/file/d/1FCUBTKf2l7Ocp364L10SwHFWjeC3bC4A/view
+
+
+Screenshot of generated README file: ![Alt text](<./Develop/images/Screenshot (40).png>)  
 
 ## Credits
 
-Referenced https://github.com/Dipti2021/README-generator-inquirer_DR/tree/main ,functions as guide.
+Referenced the below link to help with writing the markdown functions:
+https://github.com/Dipti2021/README-generator-inquirer_DR/blob/main/utils/generateMarkdown.js
+
+TA Mark Alfano helped with debugging the renderLicenseBadge and renderLicenseLink markdown function.
